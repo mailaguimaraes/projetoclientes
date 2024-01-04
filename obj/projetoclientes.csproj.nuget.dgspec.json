@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projetos anteriores/projetoclientes/projetoclientes.csproj": {}
+  },
+  "projects": {
+    "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projetos anteriores/projetoclientes/projetoclientes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projetos anteriores/projetoclientes/projetoclientes.csproj",
+        "projectName": "projetoclientes",
+        "projectPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projetos anteriores/projetoclientes/projetoclientes.csproj",
+        "packagesPath": "/Users/mailaguimaraes/.nuget/packages/",
+        "outputPath": "/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/CURSO BACK-END/Projetos anteriores/projetoclientes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mailaguimaraes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
